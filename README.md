@@ -6,7 +6,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Harsha-7646&repo=HARSHA-RENAME-BOT&theme=dark)
+
 
 
 ### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Harsha Rename Bot)
